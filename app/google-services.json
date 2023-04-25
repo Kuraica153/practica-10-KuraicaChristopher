@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927934935580",
+    "project_id": "fir-login-bfd77",
+    "storage_bucket": "fir-login-bfd77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927934935580:android:02e096871c0bdfde68a5d9",
+        "android_client_info": {
+          "package_name": "kuraica.christopher.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927934935580-q59j3a3d34pj0nvn9c3uhoibel965b1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmedVIuguOAMhqxJhX92jzYTo5jjPq7Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927934935580-q59j3a3d34pj0nvn9c3uhoibel965b1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
